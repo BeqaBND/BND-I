@@ -1,0 +1,45 @@
+/*logoo css*/
+.logoo{
+	width: 100px;
+	margin-left: 40px;
+}
+/*header*/
+header{
+	background-color: blue;
+	height: 200px;
+}
+/*header nav a*/
+header nav a {
+	color:white; 
+}
+/*main*/
+.main{
+	background-color: blue;
+	color:white;
+	margin-left: 40px;
+}
+/*about*/
+.about{
+	background-color: blue;
+	color:white;
+	margin-left: 40px;	
+}
+/*contact*/
+.contact{
+	background-color: blue;
+	color:white;
+	margin-left: 40px;
+}
+/*image-main*/
+.image-main{
+	width:1070px;
+	height:600px;
+	margin-left: 400px;
+}
+/*main-title*/
+.main-title{
+	background-color: blue;
+	color:white; 
+	border: 5px dotted white ;
+	margin: 20px 400px ; 
+}
